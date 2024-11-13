@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dl3kWhzoGWklvuakRjMU2qM7xv5cTUxXa7osMmStdCI=",
+  "Source": "RestaurantOrdersAPI",
+  "BasePath": "_content/RestaurantOrdersAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
